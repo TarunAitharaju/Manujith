@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  /* color: white;  Fallback: assume this color ON TOP of image */
+  background: url(images/5.JPG) no-repeat;
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 7vw;
+  margin:10px;
+  font-weight:bolder;
+}

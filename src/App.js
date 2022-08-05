@@ -18,22 +18,19 @@ function App() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="photo-container" style={{backgroundImage:`url(${Image1})`}}></div>
-            <h2>Image 72 </h2>
+            <div className="photo-container" style={{backgroundImage:`url(${Image1})`}}></div>    
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image2})`}}></div>
-            <h2>Image 4 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image3})`}}></div>
-            <h2>Image 245 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
@@ -42,14 +39,12 @@ function App() {
         <div className="row">
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image4})`}}></div>
-            <h2>Image 125 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image5})`}}></div>
-            <h2>Image 237 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
@@ -58,28 +53,24 @@ function App() {
         <div className="row">
           <div className="col">
             <div className="photo-container"style={{backgroundImage:`url(${Image6})`}}></div>
-            <h2>Image 285 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image7})`}}></div>
-            <h2>Image 85 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container"style={{backgroundImage:`url(${Image8})`}}></div>
-            <h2>Image 18 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
           </div>
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image9})`}}></div>
-            <h2>Image 222 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
@@ -88,12 +79,10 @@ function App() {
         <div className="row">
           <div className="col">
             <div className="photo-container" style={{backgroundImage:`url(${Image10})`}}></div>
-            <h2>Image 278 </h2>
             <div className="slide">
               <p>Happy birthday Manujith! I hope all your birthday wishes and dreams come true.</p>
             </div>
-          </div>
-          
+          </div> 
         </div>
       </div>
     </div>
